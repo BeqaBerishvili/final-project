@@ -1,0 +1,7 @@
+div{
+  color: brown;
+  background-image: url(images/download.jpg);
+  margin: 15px;
+  background-repeat: no-repeat;
+  max-width: 450px; 
+}
