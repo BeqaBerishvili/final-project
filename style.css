@@ -5,3 +5,9 @@ div{
   background-repeat: no-repeat;
   max-width: 450px; 
 }
+section{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  text-align: center;
+}
