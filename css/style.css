@@ -1,0 +1,25 @@
+div{
+  color: brown;
+  margin: 15px;
+  background-repeat: no-repeat;
+  max-width: 450px; 
+}
+section{
+  display: flex;
+  background-image: url(images/download.jpg);
+  justify-content: center;
+  gap: 10px;
+  text-align: center;
+}
+p{
+  color: red;
+  font-size: 30px;
+  display: flex;
+  text-align: center;
+}
+h1{
+  color: blue;
+  font-size: 45px;
+  display: flex;
+  text-align: center;
+}
