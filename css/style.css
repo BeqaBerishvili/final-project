@@ -1,14 +1,11 @@
-div{
-  color: brown;
-  margin: 15px;
-  background-repeat: no-repeat;
-  max-width: 450px; 
+
+body{
+  border: 5px solid red;
 }
 section{
   display: flex;
   background-image: url(images/download.jpg);
   justify-content: center;
-  gap: 10px;
   text-align: center;
 }
 p{
@@ -22,4 +19,9 @@ h1{
   font-size: 45px;
   display: flex;
   text-align: center;
+}
+.div{
+  color: brown;
+  background-repeat: no-repeat;
+  max-width: 2000px;
 }
