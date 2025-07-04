@@ -26,10 +26,6 @@ h1{
   max-width: 2000px;
   display: flex;
 }
-.img{
-  display: flex;
-  max-width: 100px;
-}
 a{
   flex-wrap: wrap;
 }
