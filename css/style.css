@@ -1,5 +1,5 @@
 
-body{
+body{ 
   border: 5px solid red;
 }
 section{
@@ -24,4 +24,12 @@ h1{
   color: brown;
   background-repeat: no-repeat;
   max-width: 2000px;
+  display: flex;
+}
+.img{
+  display: flex;
+  max-width: 100px;
+}
+a{
+  flex-wrap: wrap;
 }
