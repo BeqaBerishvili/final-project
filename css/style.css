@@ -1,6 +1,7 @@
 
 body{ 
   border: 5px solid red;
+  background-image: url(images//download.jpg);
 }
 section{
   display: flex;
@@ -13,17 +14,19 @@ p{
   font-size: 30px;
   display: flex;
   text-align: center;
+  justify-content: center;
 }
 h1{
   color: blue;
   font-size: 45px;
   display: flex;
   text-align: center;
+  justify-content: center;
 }
 .div{
   color: brown;
   background-repeat: no-repeat;
-  max-width: 2000px;
+  max-width: 100px;
   display: flex;
 }
 a{
